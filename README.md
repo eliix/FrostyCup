@@ -1,3 +1,3 @@
 # FrustyCup 🍹
 
-![FrostyCup Logo](/assets/logo.png)
+![FrostyCup Logo](/assets/logo-2.png)
